@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IGWE.WebDomain", "IGWE\IGWE.WebDomain.csproj", "{AD791BED-617F-438D-A8A3-B0EEFDB8D5B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Igwe.Domain", "Igwe_WebDomain\Igwe.Domain.csproj", "{C240230B-75E5-4783-A85A-B7A713281B0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD791BED-617F-438D-A8A3-B0EEFDB8D5B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD791BED-617F-438D-A8A3-B0EEFDB8D5B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD791BED-617F-438D-A8A3-B0EEFDB8D5B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD791BED-617F-438D-A8A3-B0EEFDB8D5B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C240230B-75E5-4783-A85A-B7A713281B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C240230B-75E5-4783-A85A-B7A713281B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C240230B-75E5-4783-A85A-B7A713281B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C240230B-75E5-4783-A85A-B7A713281B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A4CFF09-1794-4AB8-9C61-A485FF6D2431}
+	EndGlobalSection
+EndGlobal
